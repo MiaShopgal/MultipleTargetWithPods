@@ -17,7 +17,7 @@ using cocoapods with multiple targets
 
 <pre>
 	def sharing_pods
-		pod 'shareingOne',
+		pod 'shareingOne'
 		pod 'sharingTwo'
 	end
 	
